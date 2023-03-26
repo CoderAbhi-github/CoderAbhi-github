@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhishek9661342993@gmail.com**
 
-- Potfoli0 **https://coderabhi-github.github.io/Portfolio/ **
+- Portfolio **https://coderabhi-github.github.io/Portfolio/ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,29 +25,33 @@
 <!-- Languages and tools-->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    
+<p align="left">
+
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://th.bing.com/th/id/OIP.iu3tBgEPstCTfyAGtKpGbwHaHa?pid=ImgDet&w=577&h=577&rs=1" alt="linux"
             width="40" height="40" /> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40" /> </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.dataquest.io/wp-content/uploads/2020/05/python_logo.png" alt="nim" width="40"
             height="40" /> </a>
-
     <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img
             src="https://th.bing.com/th/id/OIP.5aQkMJMWM9X1Wfs_2vKOyQAAAA?pid=ImgDet&rs=1" alt="html" width="40"
             height="40" /> </a>
-
     <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img
-            src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="html"
+            src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="cs"
             width="40" height="40" /> </a>
 
     <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img
-            src="https://th.bing.com/th/id/OIP.S0B1lyDfNEXuJ-f1hPvK0wHaHa?pid=ImgDet&rs=1" alt="html" width="40"
+            src="https://th.bing.com/th/id/OIP.S0B1lyDfNEXuJ-f1hPvK0wHaHa?pid=ImgDet&rs=1" alt="js" width="40"
             height="40" /> </a>
+
+
+
+
+
+
 </p>
 
 
