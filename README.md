@@ -9,7 +9,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **potfolio**
+
 
 - 📫 How to reach me **abhishek9661342993@gmail.com**
 
@@ -52,5 +52,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAbhi-github)](https://github.com/CoderAbhi-github?tab=repositories)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderAbhi-github&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
