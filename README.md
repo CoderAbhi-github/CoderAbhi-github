@@ -5,7 +5,7 @@
 
 <p style="margin-left:10%; "><img
         src="https://content.techgig.com/photo/77914938/top-3-programming-languages-for-back-end-web-development.jpg?85576"
-        alt="instagram" width="70%">
+        alt="instagram" width="100%">
 </p>
 
 
@@ -46,22 +46,11 @@
 
 
 
+[![Coderabhi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CoderAbhi-github&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/CoderAbhi-github/CoderAbhi-github#gh-dark-mode-only)
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAbhi-github)](https://github.com/CoderAbhi-github?tab=repositories)
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=coderabhi-github&show_icons=true&locale=en&layout=compact"
-        alt="coderabhi-github" />
 
-</p>
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=coderabhi-github&show_icons=true&locale=en"
-        alt="coderabhi-github" />
-</p>
-
-<p>
-    <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=coderabhi-github&"
-        alt="coderabhi-github" />
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoderAbhi-github&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
