@@ -12,11 +12,11 @@
 
 - 📫 How to reach me **abhishek9661342993@gmail.com**
 
-- Potfoli **https://coderabhi-github.github.io/Portfolio/ **
+- Potfoli0 **https://coderabhi-github.github.io/Portfolio/ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://instagram.com/coderabhi.ig" target="blank"><img align="center"
+    <a href="https://instagram.com/coderabhi.ig" target="blank"><img
             src="https://technicalbeardo.com/wp-content/uploads/2020/08/IMG-1005.jpg" alt="coderabhi.ig" height="35"
             width="40" />
     </a>
@@ -25,7 +25,9 @@
 <!-- Languages and tools-->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+<p align="left"> 
+    
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
         href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://th.bing.com/th/id/OIP.iu3tBgEPstCTfyAGtKpGbwHaHa?pid=ImgDet&w=577&h=577&rs=1" alt="linux"
